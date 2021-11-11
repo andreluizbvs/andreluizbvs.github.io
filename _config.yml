@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "André Luiz Buarque Vieira e Silva"
 title_separator          : "-"
 name                     : &name "André Luiz Buarque Vieira e Silva"
-description              : &description "PhD Student at Voxar Labs - CIn/UFPE"
+description              : &description "PhD Student \n Centro de Informática \n Universidade Federal de Pernambuco"
 url                      : https://andreluizbvs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andreluizbvs/andreluizbvs.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "André LB Vieira e Silva"
+  name             : "André Vieira e Silva"
   avatar           : "profile.png"
-  bio              : "PhD Student at Voxar Labs - CIn/UFPE"
+  bio              : "PhD Student at UFPE"
   location         : "Recife, Brazil"
   employer         :
   pubmed           : 
