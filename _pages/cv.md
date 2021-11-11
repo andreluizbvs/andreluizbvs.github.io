@@ -17,24 +17,33 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014 to present: Research Assistant
+  * Voxar Labs
+  * Duties included: Application of academic research in several projects in partnership with national and multinational companies; Leadership and management of small teams of researchers; Development of scientific papers for relevant international journals and conferences
+  * Supervisor: Prof. Veronica Teichrieb and Prof. Francisco Simões
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019: Lecturer
+  * UNINASSAU
+  * Duties included: Preparing classes for the Compilers and Embedded System courses
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Machine Learning
+  * Deep Learning
+  * PyTorch, TF/Keras
+  * GANs
+* Computer Vision
+  * Image-based Inspection
+  * Anomaly Detection
+  * Object Detection
+* Python
+  * Flask
+* Git
+* Docker
+* C/C++
+  * CUDA
+  * OpenMP
 
 <!-- Publications
 ======
