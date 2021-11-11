@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "André L. B. Vieira e Silva"
+  name             : "André LB Vieira e Silva"
   avatar           : "profile.png"
   bio              : "PhD Student at Voxar Labs - CIn/UFPE"
   location         : "Recife, Brazil"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : "http://lattes.cnpq.br/7142304310764930"
-  linkedin         : "https://www.linkedin.com/in/andre-luiz-vieira/?locale=en_US"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "andre-luiz-vieira/?locale=en_US"
+  orcid            : "https://orcid.org/0000-0001-6717-6105"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
