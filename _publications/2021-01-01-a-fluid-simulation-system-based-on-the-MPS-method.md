@@ -9,7 +9,7 @@ paperurl: https://www.sciencedirect.com/science/article/abs/pii/S001046552030274
 citation: 'Vieira-e-Silva, André Luiz Buarque, Caio José dos Santos Brito, Francisco Paulo Magalhães Simões, and Veronica Teichrieb. "A fluid simulation system based on the MPS method." <i>Computer Physics Communications</i> 258 (2021): 107572.'
 ---
 
-[Source code here](https://github.com/andreluizbvs/VoxarMPS)
-[Download paper here](https://arxiv.org/pdf/2105.01677.pdf)
+[Source](https://github.com/andreluizbvs/VoxarMPS) <br />
+[PDF](https://arxiv.org/pdf/2105.01677.pdf)
 
 ![Oil spilling](https://i.imgur.com/TvTrYQG.gif)

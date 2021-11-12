@@ -10,6 +10,4 @@ citation: 'Vieira-e-Silva, André Luiz B., Mozart William S. Almeida, Caio Brito
 ---
 
 
-[Download paper here](https://www.researchgate.net/publication/321174928_Improved_Meshless_Method_for_Simulating_Incompressible_Fluids_on_GPU)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[PDF](https://www.researchgate.net/publication/321174928_Improved_Meshless_Method_for_Simulating_Incompressible_Fluids_on_GPU)

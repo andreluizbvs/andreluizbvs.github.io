@@ -10,5 +10,5 @@ citation: 'e Silva, André L. Vieira, Mozart W. Almeida, Caio J. Brito, Veronica
 ---
 
 
-[Download paper here](http://www.dem.ist.utl.pt/cmn2015/html/CD-Proceedings/PDF/Papers/CMN_2015_submission_289.pdf)
+[PDF](http://www.dem.ist.utl.pt/cmn2015/html/CD-Proceedings/PDF/Papers/CMN_2015_submission_289.pdf)
 

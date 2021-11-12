@@ -10,5 +10,6 @@ citation: 'Vieira-e-Silva, André Luiz Buarque, Caio Brito, Mozart William Almei
 ---
 
 
-[Download paper here](https://seer.ufrgs.br/jis/article/view/80046/49458)
+[PDF](https://seer.ufrgs.br/jis/article/view/80046/49458)
 
+![Simulation](https://i.imgur.com/qEM846i.png)
