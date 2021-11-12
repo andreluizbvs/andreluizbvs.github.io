@@ -8,4 +8,4 @@ tags:
   - Reinforcement Learning Robotics
 ---
 
-MSc Scholarship from 2016 to 2018 sponsored by HP Inc. (USA) to work at Voxar Labs.
+MSc Scholarship from 2016 to 2018 sponsored by HP Inc. (USA) to work at Voxar Labs in projects related to Parametric 3D printing, Non-Flat AR and RL for robotics.
