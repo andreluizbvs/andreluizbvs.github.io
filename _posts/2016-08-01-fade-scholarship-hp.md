@@ -7,3 +7,5 @@ tags:
   - Non-flat AR
   - Reinforcement Learning Robotics
 ---
+
+MSc Scholarship from 2016 to 2018 sponsored by HP Inc. (USA) to work at Voxar Labs.

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Universidade Federal de Pernambuco, 2016
-* M.S. in Computer Science, Universidade Federal de Pernambuco, 2018
-* Ph.D in Computer Science, Universidade Federal de Pernambuco, 2024 (expected)
+* B.Sc. in Computer Engineering, Universidade Federal de Pernambuco, 2016
+* M.Sc. in Computer Science, Universidade Federal de Pernambuco, 2018
+* Ph.D. in Computer Science, Universidade Federal de Pernambuco, 2023 (expected)
 
 Work experience
 ======
