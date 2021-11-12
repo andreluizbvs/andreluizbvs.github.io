@@ -1,7 +1,7 @@
 ---
-title: "A fluid simulation system based on the MPS method"
+title: [A fluid simulation system based on the MPS method](https://www.sciencedirect.com/science/article/abs/pii/S0010465520302745)
 collection: publications
-permalink: 'https://www.sciencedirect.com/science/article/abs/pii/S0010465520302745'
+permalink: 
 excerpt: 
 date: 2021-01-01
 venue: 'Computer Physics Communications'
