@@ -1,7 +1,7 @@
 ---
 title: "A fluid simulation system based on the MPS method"
 collection: publications
-permalink: /publication/2021-01-paper-title-number-3
+permalink: /publication/2021-01-a-fluid-simulation-system-based-on-the-MPS-method
 excerpt: 
 date: 2021-01
 venue: 'Computer Physics Communications'
