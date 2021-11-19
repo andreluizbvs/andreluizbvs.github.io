@@ -31,13 +31,14 @@ Skills
 
 * Machine Learning
   * Deep Learning
-  * PyTorch, TF/Keras
+  * PyTorch, TorchScript, TF/Keras
   * GANs
 * Computer Vision
   * Image-based Inspection
   * Anomaly Detection
   * Object Detection
-* Python
+  * OpenCV
+* Python3
   * Flask
 * Git
 * Docker
