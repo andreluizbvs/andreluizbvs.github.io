@@ -2,7 +2,7 @@
 title: "A fluid simulation system based on the MPS method"
 collection: publications
 permalink: 
-excerpt: 
+excerpt: ![Oilspilling](https://i.imgur.com/TvTrYQG.gif)
 date: 2021-01-01
 venue: 'Computer Physics Communications'
 paperurl: https://www.sciencedirect.com/science/article/abs/pii/S0010465520302745
@@ -12,4 +12,4 @@ citation: 'Vieira-e-Silva, André Luiz Buarque, Caio José dos Santos Brito, Fra
 [GitHub](https://github.com/andreluizbvs/VoxarMPS) <br />
 [PDF](https://arxiv.org/pdf/2105.01677.pdf)
 
-![Oil spilling](https://i.imgur.com/TvTrYQG.gif)
+![Oilspilling](https://i.imgur.com/TvTrYQG.gif)

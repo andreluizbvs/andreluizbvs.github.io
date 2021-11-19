@@ -2,7 +2,7 @@
 title: "Improved MPS method and its variations for simulating incompressible fluids on GPU"
 collection: publications
 permalink: 
-excerpt: 
+excerpt: ![Simulation](https://i.imgur.com/qEM846i.png)
 date: 2018-10-01
 venue: 'Journal on Interactive Systems'
 paperurl: 'https://seer.ufrgs.br/jis/article/view/80046'
