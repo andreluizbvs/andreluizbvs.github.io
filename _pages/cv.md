@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Computer Engineering, Universidade Federal de Pernambuco, 2016
-* M.Sc. in Computer Science, Universidade Federal de Pernambuco, 2018
-* Ph.D. in Computer Science, Universidade Federal de Pernambuco, 2023 (expected)
+* BSc in Computer Engineering, Universidade Federal de Pernambuco, 2016
+* MSc in Computer Science, Universidade Federal de Pernambuco, 2018
+* PhD in Computer Science, Universidade Federal de Pernambuco, 2023 (expected)
+  * Exchange PhD student in Computer Science, Technische Universität Chemnitz, 2022 
 
 Work experience
 ======
@@ -31,8 +32,8 @@ Skills
 
 * Machine Learning
   * Deep Learning
-  * PyTorch, TorchScript, TF/Keras
-  * GANs
+    * PyTorch, TorchScript, TF/Keras
+    * GANs
 * Computer Vision
   * Image-based Inspection
   * Anomaly Detection
