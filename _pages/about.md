@@ -14,4 +14,4 @@ My PhD research explores Unsupervised Learning to improve Anomaly Detection and 
 
 From my research findings, I was able to publish scientific papers in high-impact journals such as the Computer Physics Communications and also in leading conferences in Latin America on Computer Vision and VR/AR, such as the Conference on Graphics, Patterns and Images (SIBGRAPI) and the Symposium on Virtual and Augmented Reality (SVR). 
 
-I am currently in Germany at TU Chemnitz as a DAAD scholarship holder for six months to deepen my PhD studies. I am under the guidance of Jun.-Prof. Danny Kowerko in the Media Computing research group. 
+During 2022 I was in Germany at TU Chemnitz as a DAAD scholarship holder for six months to deepen my PhD studies. I worked under the guidance of Jun.-Prof. Danny Kowerko in the Media Computing research group to advance the state of the art in Attention-based Image-level Anomaly Detection. 

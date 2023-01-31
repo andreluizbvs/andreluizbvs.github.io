@@ -20,7 +20,7 @@ Work experience
 ======
 * 2014 to present: Research Assistant
   * Voxar Labs
-  * Duties included: Application of academic research in several projects in partnership with national and multinational companies; Leadership and management of small teams of researchers; Development of scientific papers for relevant international journals and conferences
+  * Duties included: Application of academic research in several projects in partnership with national and multinational companies; Leadership of research & development teams; R&D in general; Development of scientific papers for relevant international journals and conferences
   * Supervisor: Prof. Veronica Teichrieb and Prof. Francisco Simões
 
 * 2019: Lecturer
@@ -46,6 +46,7 @@ Skills
 * C/C++
   * CUDA
   * OpenMP
+* AWS EC2
 
 <!-- Publications
 ======
