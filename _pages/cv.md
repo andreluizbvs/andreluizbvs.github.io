@@ -43,10 +43,10 @@ Skills
   * Flask
 * Git
 * Docker
+* AWS EC2
 * C/C++
   * CUDA
   * OpenMP
-* AWS EC2
 
 <!-- Publications
 ======

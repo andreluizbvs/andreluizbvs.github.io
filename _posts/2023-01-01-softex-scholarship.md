@@ -9,6 +9,7 @@ tags:
   - Object Detection
   - Image Classification
   - Anomaly Detection
+  - R&D
 ---
 
-Softex Recife PDTI-3 Scholarship from "Centro de Excelência em Tecnologia de Software do Recife - SOFTEX RECIFE" to work in a project related to Image-based Defect Inspection on UAV images using Vision-based Deep Learning: Object Detection, Image Classification and Anomaly Detection.
+Softex Recife PDTI-3 Scholarship (R&D) from "Centro de Excelência em Tecnologia de Software do Recife - SOFTEX RECIFE" to work in a project related to Image-based Defect Inspection on UAV images using Vision-based Deep Learning: Object Detection, Image Classification and Anomaly Detection.
