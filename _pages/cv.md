@@ -18,7 +18,11 @@ Education
 
 Work experience
 ======
-* 2014 to present: Research Assistant
+* 2023 to present: Computer Vision Engineer
+  * Caf (Combate à fraude)
+  * Duties include: Improve and maintain face matching solution in production to avoid fraud in biometric identification; Improve and maintain a model to convert embeddings to different embedding spaces; Improve and Maintain internal tool that facilitates development and experimentation in AWS cloud
+
+* 2014 to 2023: Research Assistant
   * Voxar Labs
   * Duties included: Application of academic research in several projects in partnership with national and multinational companies; Leadership of research & development teams; R&D in general; Development of scientific papers for relevant international journals and conferences
   * Supervisor: Prof. Veronica Teichrieb and Prof. Francisco Simões
@@ -33,7 +37,7 @@ Skills
 * Machine Learning
   * Deep Learning
     * PyTorch, TorchScript, TF/Keras
-    * GANs
+    * TensorFlow
 * Computer Vision
   * Image-based Inspection
   * Anomaly Detection
@@ -44,6 +48,7 @@ Skills
 * Git
 * Docker
 * AWS EC2
+* Kubernetes (beginner)
 * C/C++
   * CUDA
   * OpenMP
