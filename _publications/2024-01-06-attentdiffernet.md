@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 date: 2024-01-06
 venue: 'WACV 2024'
-paperurl: 'http://urlib.net/rep/8JMKD3MGPEW34M/45C7QNL'
+paperurl: 'ttps://arxiv.org/abs/2311.02747'
 citation: 'Vieira e Silva, André Luiz Buarque, Francisco Simões, Danny Kowerko, Tobias Schlosser, Felipe Battisti, Veronica Teichrieb. "Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study." <i> arXiv preprint arXiv:2311.02747</i> (2023).'
 excerpt: 
 ---
