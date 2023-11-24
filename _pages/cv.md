@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download my full curriculum vitae [here](https://andreluizbvs.github.io/files/CV_Andre_Luiz_Buarque_Vieira_e_Silva.pdf).
 
 Education
 ======
