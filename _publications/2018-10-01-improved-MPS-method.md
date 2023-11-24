@@ -9,6 +9,6 @@ paperurl: 'https://seer.ufrgs.br/jis/article/view/80046'
 citation: 'Vieira-e-Silva, André Luiz Buarque, Caio Brito, Mozart William Almeida, and Veronica Teichrieb. "Improved MPS method and its variations for simulating incompressible fluids on GPU." <i>Journal on Interactive Systems</i> 9, no. 2 (2018).'
 ---
 
-![Simulation](https://i.imgur.com/qEM846i.png)
+![Simulation](https://andreluizbvs.github.io/files/improved-mps.png)
 
 [PDF](https://seer.ufrgs.br/jis/article/view/80046/49458)
