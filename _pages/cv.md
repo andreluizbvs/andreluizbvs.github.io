@@ -14,7 +14,7 @@ Education
 ======
 * BSc in Computer Engineering, Universidade Federal de Pernambuco, 2016
 * MSc in Computer Science, Universidade Federal de Pernambuco, 2018
-* PhD in Computer Science, Universidade Federal de Pernambuco, 2023 (expected)
+* PhD in Computer Science, Universidade Federal de Pernambuco, 2025 (expected)
   * Exchange PhD student in Computer Science, Technische Universität Chemnitz, 2022 
 
 Work experience
@@ -23,7 +23,7 @@ Work experience
   * Caf (Combate à fraude)
   * Duties include: Improve and maintain face matching solution in production to avoid fraud in biometric identification; Improve and maintain a model to convert embeddings to different embedding spaces; Improve and Maintain internal tool that facilitates development and experimentation in AWS cloud
 
-* 2014 to 2023: Research Assistant
+* 2014 to 2023: Research Engineer
   * Voxar Labs
   * Duties included: Application of academic research in several projects in partnership with national and multinational companies; Leadership of research & development teams; R&D in general; Development of scientific papers for relevant international journals and conferences
   * Supervisor: Prof. Veronica Teichrieb and Prof. Francisco Simões
@@ -37,19 +37,24 @@ Skills
 
 * Machine Learning
   * Deep Learning
-    * PyTorch, TorchScript, TF/Keras
-    * TensorFlow
+    * PyTorch, TorchScript
+    * TensorFlow/Keras
 * Computer Vision
   * Image-based Inspection
   * Anomaly Detection
   * Object Detection
   * OpenCV
 * Python3
+  * Numpy
+  * Matplotlib
+  * Pandas
+  * Scikit-learn
   * Flask
-* Git
-* Docker
-* AWS EC2
-* Kubernetes (beginner)
+* Tools
+  * Git
+  * Docker
+  * AWS EC2
+  * Kubernetes (beginner)
 * C/C++
   * CUDA
   * OpenMP
